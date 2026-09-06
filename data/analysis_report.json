@@ -1,0 +1,71 @@
+﻿{
+    "dataset_summary":  {
+                            "total_columns":  [
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1,
+                                                  1
+                                              ],
+                            "total_records":  50000,
+                            "analysis_date":  "2026-09-06 14:26:16"
+                        },
+    "risk_distribution":  {
+                              "Low":  470,
+                              "Moderate":  12937,
+                              "High":  36593
+                          },
+    "top_countries":  {
+                          "Malaysia":  2083,
+                          "Canada":  2050,
+                          "Egypt":  2010,
+                          "United Kingdom":  2037,
+                          "Russia":  2071,
+                          "Indonesia":  2011,
+                          "Nigeria":  2023,
+                          "China":  2065,
+                          "France":  2068,
+                          "Spain":  2007
+                      },
+    "gender_distribution":  {
+                                "Male":  16718,
+                                "Female":  16605,
+                                "Other":  16677
+                            }
+}

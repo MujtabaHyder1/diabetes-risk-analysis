@@ -1,0 +1,34 @@
+﻿DIABETES RISK PREDICTION DATASET - SUMMARY STATISTICS
+=====================================================
+
+RISK DISTRIBUTION:
+Moderate: 12937 records
+High: 36593 records
+Low: 470 records
+
+
+GENDER DISTRIBUTION:
+Male: 16718 records
+Other: 16677 records
+Female: 16605 records
+
+
+TOP 10 COUNTRIES:
+Malaysia: 2083 records
+Russia: 2071 records
+France: 2068 records
+China: 2065 records
+Canada: 2050 records
+United Kingdom: 2037 records
+Nigeria: 2023 records
+Indonesia: 2011 records
+Egypt: 2010 records
+Spain: 2007 records
+
+
+SUMMARY:
+- Total Patients: 50000
+- Total Features: 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+- High Risk %: 73.2%
+- Analysis Generated: 2026-09-06 14:26:17 UTC
+

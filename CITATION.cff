@@ -1,0 +1,19 @@
+﻿cff-version: 1.2.0
+title: Diabetes Risk Prediction Dataset Analysis
+message: 'Please cite this work as below.'
+type: software
+authors:
+  - family-names: "Analysis"
+    given-names: "Comprehensive Data"
+    orcid: "https://orcid.org"
+date-released: 2026-09-06
+version: 1.0.0
+doi: 10.0000/example.doi
+repository-code: 'https://github.com/yourusername/diabetes-risk-analysis'
+abstract: 'Comprehensive analysis of 50,000 patient records for diabetes risk prediction'
+keywords:
+  - diabetes
+  - health analytics
+  - data science
+  - epidemiology
+license: MIT
