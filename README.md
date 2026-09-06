@@ -133,12 +133,33 @@ The comprehensive analysis includes:
 
 All charts generated at publication quality (300 DPI):
 
-- Risk distribution (bar & pie charts)
-- Demographic distributions (age, gender, geography)
-- Health metrics distributions (histograms)
-- Risk correlations (scatter plots)
-- Lifestyle factor analysis
-- Comorbidity prevalence
+### Risk Distribution
+![Risk Distribution](visualizations/01_risk_distribution.png)
+*73.2% of patients fall into the HIGH RISK category for diabetes*
+
+### Health Metrics Dashboard
+![Health Metrics Dashboard](visualizations/02_health_metrics_dashboard.png)
+*Comprehensive distribution of key clinical measurements across the cohort*
+
+### Risk by Demographics
+![Risk by Demographics](visualizations/03_risk_by_demographics.png)
+*Age and BMI are strong predictors of diabetes risk*
+
+### Lifestyle Factors
+![Lifestyle Factors](visualizations/04_lifestyle_factors.png)
+*59.8% of patients are physically inactive; 47% sleep inadequately*
+
+### Comorbidities
+![Comorbidities](visualizations/05_comorbidities.png)
+*Heart disease presence increases high-risk rate to 94.7%*
+
+### Correlation Heatmap
+![Correlation Heatmap](visualizations/06_correlation_heatmap.png)
+*HbA1c and blood glucose are strongest predictors of risk*
+
+### Lifestyle & Health Outcomes
+![Lifestyle & Health Outcomes](visualizations/07_lifestyle_health_outcomes.png)
+*Diet quality and sugar intake significantly impact diabetes risk*
 
 ## 📥 Data Source
 
