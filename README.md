@@ -52,7 +52,7 @@ diabetes-risk-analysis/
 ### Installation
 
 \\\ash
-git clone https://github.com/yourusername/diabetes-risk-analysis.git
+git clone https://github.com/MujtabaHyder1/diabetes-risk-analysis.git
 cd diabetes-risk-analysis
 pip install -r requirements.txt
 \\\
@@ -196,9 +196,9 @@ If you use this analysis in your work, please cite:
 \\\ibtex
 @software{diabetes_risk_2026,
   title={Diabetes Risk Prediction - Comprehensive Analysis},
-  author={Analysis Team},
+  author={Mujtaba Hyder},
   year={2026},
-  url={https://github.com/yourusername/diabetes-risk-analysis}
+  url={https://github.com/MujtabaHyder1/diabetes-risk-analysis}
 }
 \\\
 
@@ -212,7 +212,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## 📞 Contact
 
-For questions or suggestions, please open an issue on GitHub or contact the project team.
+For questions or suggestions, please open an issue on GitHub or contact me at [mujtabahyder80@outlook.com](mailto:mujtabahyder80@outlook.com) / [@MujtabaHyder1](https://github.com/MujtabaHyder1).
 
 ---
 
